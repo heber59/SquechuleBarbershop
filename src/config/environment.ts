@@ -1,0 +1,4 @@
+const enviroment {}
+
+
+export {enviroment}
